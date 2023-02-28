@@ -15,7 +15,7 @@ const Header: React.FC = () => {
         <AppBar position="static">
             <Toolbar>
                 <Typography variant="h6" className={classes.title}>
-                    Rusty Chat
+                    Astral Chat
                 </Typography>
             </Toolbar>
         </AppBar>

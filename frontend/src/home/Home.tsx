@@ -58,7 +58,7 @@ const Home: React.FC = () => {
     return (
         <Box display="flex" flexDirection="column" textAlign="center" flexGrow={1} pt={4}>
             <Typography variant="h3">
-                Welcome!
+                Enter your name
             </Typography>
             <Box component="form" onSubmit={handleJoin} display="flex" justifyContent="center" alignItems="baseline"
                  mt={2}>
